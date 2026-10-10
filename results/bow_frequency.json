@@ -1,0 +1,7 @@
+{
+    "method": "Word Frequency",
+    "validation_accuracy": 0.984375,
+    "validation_macro_f1": 0.9633053211597432,
+    "test_accuracy": 0.9895833333333334,
+    "test_macro_f1": 0.974178478192
+}

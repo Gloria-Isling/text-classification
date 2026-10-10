@@ -1,0 +1,9 @@
+{
+    "method": "GloVe 100d",
+    "embedding_dimension": 100,
+    "classifier": "Logistic Regression",
+    "validation_accuracy": 0.9774305555555556,
+    "validation_macro_f1": 0.9499728075512047,
+    "test_accuracy": 0.9852430555555556,
+    "test_macro_f1": 0.9646170284241168
+}

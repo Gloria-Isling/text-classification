@@ -1,0 +1,23 @@
+
+# Python 缓存
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Conda / Python 虚拟环境
+.venv/
+venv/
+env/
+
+# VS Code 本地配置
+.vscode/
+
+# GloVe 原始词向量（体积较大）
+glove/*.txt
+
+# 训练生成的模型文件
+models/
+
+# 其他临时文件
+*.log
+*.tmp

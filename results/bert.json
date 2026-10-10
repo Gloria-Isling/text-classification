@@ -1,0 +1,36 @@
+{
+    "method": "BERT Fine-tuning",
+    "model": "google-bert/bert-base-uncased",
+    "max_length": 64,
+    "epochs": 3,
+    "batch_size": 16,
+    "learning_rate": 2e-05,
+    "vector_model": "BERT-base-uncased",
+    "training_history": [
+        {
+            "epoch": 1,
+            "train_loss": 0.1439076672084209,
+            "validation_loss": 0.07275852500364029,
+            "validation_accuracy": 0.9722222222222222,
+            "validation_macro_f1": 0.9379403648422994
+        },
+        {
+            "epoch": 2,
+            "train_loss": 0.04079481600385609,
+            "validation_loss": 0.10330269012693963,
+            "validation_accuracy": 0.9704861111111112,
+            "validation_macro_f1": 0.9388162126165538
+        },
+        {
+            "epoch": 3,
+            "train_loss": 0.02031833423072587,
+            "validation_loss": 0.10492899903612043,
+            "validation_accuracy": 0.9722222222222222,
+            "validation_macro_f1": 0.9397441616660336
+        }
+    ],
+    "validation_accuracy": 0.9722222222222222,
+    "validation_macro_f1": 0.9397441616660336,
+    "test_accuracy": 0.9791666666666666,
+    "test_macro_f1": 0.9510845117252439
+}

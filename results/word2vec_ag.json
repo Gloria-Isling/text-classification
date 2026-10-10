@@ -1,0 +1,13 @@
+{
+    "method": "Word2Vec Trained on AG News",
+    "word2vec_training_data": "AG News",
+    "vector_size": 100,
+    "window": 5,
+    "min_count": 2,
+    "word2vec_epochs": 10,
+    "classifier": "Logistic Regression",
+    "validation_accuracy": 0.9713541666666666,
+    "validation_macro_f1": 0.9374884491012959,
+    "test_accuracy": 0.9800347222222222,
+    "test_macro_f1": 0.9508033224044589
+}

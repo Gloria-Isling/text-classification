@@ -1,0 +1,13 @@
+{
+    "method": "Word2Vec Trained on NYT",
+    "word2vec_training_data": "NYT Training Set",
+    "vector_size": 100,
+    "window": 5,
+    "min_count": 2,
+    "word2vec_epochs": 10,
+    "classifier": "Logistic Regression",
+    "validation_accuracy": 0.9774305555555556,
+    "validation_macro_f1": 0.9503697351247261,
+    "test_accuracy": 0.9869791666666666,
+    "test_macro_f1": 0.9672144370527849
+}

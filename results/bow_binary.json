@@ -1,0 +1,7 @@
+{
+    "method": "Binary Bag of Words",
+    "validation_accuracy": 0.9861111111111112,
+    "validation_macro_f1": 0.9667455352189553,
+    "test_accuracy": 0.9904513888888888,
+    "test_macro_f1": 0.9763833014698382
+}
